@@ -8,3 +8,6 @@ The repository does not include the dataset used because it is proprietary to Da
 
 # Requirements
 The required packages are included in the requirements.txt file
+
+# References
+

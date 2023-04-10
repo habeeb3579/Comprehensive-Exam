@@ -6,3 +6,5 @@ The repository consists of a main directory: "milk analysis", which has a subdir
 The repository does not include the dataset used because it is proprietary to Daisy Brand. The dataset contains cheese milk spectral data and the corresponding milk properties such as true protein, and casein content.
 
 
+# Requirements
+The required packages are included in the requirements.txt file
